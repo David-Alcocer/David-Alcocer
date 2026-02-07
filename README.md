@@ -2,7 +2,7 @@
 
 ### A passionate about workflow 
 
-- 🔭 I'm currently working on **WeWolf:  Community of Fmat students who work on real projects related to the software industry. Here they develop technical and software skills. **
+- 🔭 I'm currently working on **WeWolf:  Community of Fmat students who work on real projects related to the software industry. Here they develop technical and softs skills. **
 
 - 🌱 I'm currently learning **Java and Python **
 
