@@ -1,28 +1,50 @@
-# Hi 👋, I'm David Misael Alcocer Castilla
+<div align="center">
 
-### A passionate about workflow 
+# Hi, I'm David Misael Alcocer Castilla 👋
 
-- 🔭 I'm currently working on **WeWolf:  Community of Fmat students who work on real projects related to the software industry. Here they develop technical and softs skills. **
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Git+%26+GitHub+Expert;Open+Source+Contributor;Community+Builder+%40+WeWolf)](https://git.io/typing-svg)
 
-- 🌱 I'm currently learning **Java and Python **
 
-- 👯 I'm looking to collaborate on **open source projects**
+</div>
 
-- 💬 Ask me about **Git, Github, Workflows **
 
-- 📫 How to reach me **a22200536@alumnos.uady.mx**
+## About Me
 
-- ⚡ Fun fact **I love documentation on Github and automation **
+- 🚀 Co-Founder of **[WeWolf](https://github.com/WeWolf)** — a community where FMAT students build real-world software industry projects, developing both technical and soft skills.
+- 💻 Passionate about clean workflows, automation, and open source collaboration.
+- 🎯 **Git & GitHub Expert** — version control, branching strategies, CI/CD, and team workflows.
+- 👯 Open to collaborate on **open source projects**.
+- ⚡ Fun fact: I love writing great documentation and automating everything I can.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/David-Alcocer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="David-Alcocer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/David Alcocer Castilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Alcocer Castilla" height="30" width="40" /></a>
-<a href="https://fb.com/David Alcocer Castilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="David Alcocer Castilla" height="30" width="40" /></a>
-<a href="https://instagram.com/davidmisael30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidmisael30" height="30" width="40" /></a>
-<a href="https://discord.gg/MisaelMc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MisaelMc" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+## Tech Stack
 
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+## Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-David--Alcocer-181717?style=for-the-badge&logo=github)](https://github.com/David-Alcocer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Alcocer-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-misael-alcocer-castilla-0a1a9037a/)
+[![Instagram](https://img.shields.io/badge/Instagram-davidmisael30-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidmisael30/)
+[![WeWolf](https://img.shields.io/badge/Instagram-wewolf__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wewolf_dev/)
+[![Discord](https://img.shields.io/badge/Discord-MisaelMc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MisaelMc)
+[![Email](https://img.shields.io/badge/Email-a22200536@alumnos.uady.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a22200536@alumnos.uady.mx)
+
+</div>
