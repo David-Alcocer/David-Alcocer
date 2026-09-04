@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🚀 Co-Founder of **[WeWolf](https://github.com/WeWolf)** — a community where FMAT students build real-world software industry projects, developing both technical and soft skills.
+- 🚀 Co-Founder of **[WeWolf](https://github.com/WeWolfDev)** — a community where FMAT students build real-world software industry projects, developing both technical and soft skills.
 - 💻 Passionate about clean workflows, automation, and open source collaboration.
 - 🎯 **Git & GitHub Expert** — version control, branching strategies, CI/CD, and team workflows.
 - 👯 Open to collaborate on **open source projects**.
@@ -32,7 +32,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 
